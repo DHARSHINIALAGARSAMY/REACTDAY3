@@ -1,0 +1,43 @@
+.sub-menu
+{
+    padding: 10px ;
+    display: flex;
+    width: 90vw;
+    box-shadow: 1px 1px 1px 2px rgba(121, 175, 222, 0.937);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZR8Gx_gT1oClZkMgVMYTSNxKFRCVZZ2E-AQ&usqp=CAU);
+    margin-top: 4%;
+    margin-left: 2%;
+}
+.sub-menu h2{
+    padding: 10px ;
+  font-size: 1.5em;
+}
+.sub-menu h3{
+    margin-left: 10%;
+    padding: 12px ;
+  font-size: 2.6em;
+  color:#73ebf4;
+}
+.sub-menu p{
+    margin-left: 10%;
+    padding: 20px ;
+    font-size: 2em;
+  }
+.sub-menu img{
+    width: 4vw;
+    height: 10vh;
+}
+.sub-menu a{
+    margin-left: 10%;
+    padding: 19px ;
+  font-size: 2em;
+  text-decoration: none;
+  color: black;
+  border-radius: 40px;
+  border: 1px solid #90e7fb;
+}
+.sub-menu a:hover{
+    color: rgb(163, 222, 241);
+    background: #72ddf0;
+    transition: 0.5s;
+}
